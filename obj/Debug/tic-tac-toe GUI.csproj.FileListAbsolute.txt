@@ -1,0 +1,9 @@
+C:\Users\juanp\source\repos\tic-tac-toe GUI\bin\Debug\tic-tac-toe GUI.exe
+C:\Users\juanp\source\repos\tic-tac-toe GUI\bin\Debug\tic-tac-toe GUI.pdb
+C:\Users\juanp\source\repos\tic-tac-toe GUI\obj\Debug\tic-tac-toe GUI.csproj.AssemblyReference.cache
+C:\Users\juanp\source\repos\tic-tac-toe GUI\obj\Debug\tic_tac_toe_GUI.Form1.resources
+C:\Users\juanp\source\repos\tic-tac-toe GUI\obj\Debug\tic_tac_toe_GUI.Properties.Resources.resources
+C:\Users\juanp\source\repos\tic-tac-toe GUI\obj\Debug\tic-tac-toe GUI.csproj.GenerateResource.cache
+C:\Users\juanp\source\repos\tic-tac-toe GUI\obj\Debug\tic-tac-toe GUI.csproj.CoreCompileInputs.cache
+C:\Users\juanp\source\repos\tic-tac-toe GUI\obj\Debug\tic-tac-toe GUI.exe
+C:\Users\juanp\source\repos\tic-tac-toe GUI\obj\Debug\tic-tac-toe GUI.pdb
